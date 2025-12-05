@@ -34,12 +34,12 @@ Provides a complete API for managing blog posts, including creation, updating, d
 ## 📁 Project Structure
 
 /src
-├── controllers
-├── models
-├── routes
-├── middleware
-├── config
-└── server.js
+-config
+-controllers
+-helpers
+-middleware
+-models
+-routes
 
 ---
 
